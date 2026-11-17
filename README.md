@@ -105,8 +105,9 @@
 ## 📊 Thống kê GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VietManh05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VietManh05&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VietManh05&theme=tokyonight" alt="GitHub stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VietManh05&theme=tokyonight" alt="Most commit language" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VietManh05&theme=tokyonight" alt="Repos per language" />
 </p>
 
 <p align="center">
